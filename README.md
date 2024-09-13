@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=denis9506&color=blue)
+<img src="https://komarev.com/ghpvc/?username=denis9506&color=blue" alt="Profile Views" />
 </div>
 
 ###
