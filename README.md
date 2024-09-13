@@ -84,8 +84,10 @@
 
 <div align = "center">
    🌱 I’m currently learning **ASP.NET,Azure**
+    <br>
    📫 How to reach me **den95062006@gmail.com**
-   ⚡ Fun fact **I like too old songs...**
+    <br>
+  ⚡ Fun fact **I like too old songs...**
 </div>
 
 ###
