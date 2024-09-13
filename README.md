@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
@@ -69,6 +65,10 @@
 
 ###
 
+<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=denroll&color=ff0000&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=denis_voitsehchuk&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -83,5 +83,19 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/denis9506/denis9506/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/denis9506/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=denis9506&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=denis9506&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denis9506&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
