@@ -68,7 +68,7 @@
 
 <!-- Fun GIF Section -->
 <div align="center">
-  <img align="right" height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif" alt="fun gif" />
+  <img height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif" alt="fun gif" />
 </div>
 
 ###
