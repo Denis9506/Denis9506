@@ -83,11 +83,9 @@
 <br clear="both">
 
 <div align = "center">
-  - 🌱 I’m currently learning **ASP.NET,Azure**
-
-- 📫 How to reach me **den95062006@gmail.com**
-
-- ⚡ Fun fact **I like too old songs...**
+   🌱 I’m currently learning **ASP.NET,Azure**
+   📫 How to reach me **den95062006@gmail.com**
+   ⚡ Fun fact **I like too old songs...**
 </div>
 
 ###
