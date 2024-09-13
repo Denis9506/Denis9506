@@ -65,7 +65,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
+<img align="right" height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
 
 ###
 
