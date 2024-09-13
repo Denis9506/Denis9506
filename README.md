@@ -65,14 +65,7 @@
 
 ###
 
-<div align="center">
-
-- 🌱 I’m currently learning **ASP.NET,Azure**
-
-- 📫 How to reach me **den95062006@gmail.com**
-
-- ⚡ Fun fact **I like too old songs...**
-</div>
+<img align="right" height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
 
 ###
 
@@ -89,7 +82,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/denis9506/denis9506/output/snake.svg" alt="Snake animation" />
+<div align = "center">
+  - 🌱 I’m currently learning **ASP.NET,Azure**
+
+- 📫 How to reach me **den95062006@gmail.com**
+
+- ⚡ Fun fact **I like too old songs...**
+</div>
 
 ###
 
