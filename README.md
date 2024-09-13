@@ -1,15 +1,17 @@
-<h3 align="center">Hi 👋! My name is Denis and I'm a Frontend Developer & Aspiring Backend Expertfrom.</h3>
+<h3 align="center">Hi 👋! My name is Denis and I'm a Frontend Developer & Aspiring Backend Expert.</h3>
 
 ###
 
+<!-- Profile Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denis9506&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denis9506&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
+<!-- Skills Section -->
+<h2 align="center">🚀 Languages and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="20" />
@@ -24,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo"  />
   <img width="20" />
@@ -66,10 +66,15 @@
 
 ###
 
-<img align="right" height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif"  />
+<!-- Fun GIF Section -->
+<div align="center">
+  <img align="right" height="160" src="https://cdn-images-1.medium.com/max/1200/1*JtC1CS6-OT218_QzRlLXFw.gif" alt="fun gif" />
+</div>
 
 ###
 
+<!-- Contact Info Section -->
+<h2 align="center">📫 Contact Me</h2>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=denroll&color=ff0000&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=denis_voitseshchuk&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -81,28 +86,29 @@
 
 ###
 
-<br clear="both">
-
-<div align = "center">
-   🌱 I’m currently learning **ASP.NET,Azure**
-    <br>
-   📫 How to reach me **den95062006@gmail.com**
-    <br>
-  ⚡ Fun fact **I like too old songs...**
-</div>
-
-###
-
+<!-- Personal Info Section -->
+<h2 align="center">🌱 About Me</h2>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=denis9506&color=6f42c1&style=for-the-badge" alt="Profile Views" width="225" height="35"/>
+   🌱 I’m currently learning **ASP.NET, Azure**
+   <br>
+   📫 How to reach me **den95062006@gmail.com**
+   <br>
+   ⚡ Fun fact: **I like old songs...**
 </div>
 
 ###
 
+<!-- Profile Views Section -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=denis9506&color=6f42c1&style=for-the-badge" alt="Profile Views" width="225" height="35"/>
+</div>
+
+###
+
+<!-- Activity Section -->
+<h2 align="center">🔥 My GitHub Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=denis9506&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=denis9506&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denis9506&radius=16&theme=cotton-candy&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denis9506&radius=16&theme=cotton-candy&area=true&order=5" height="300" alt="activity graph"  />
 </div>
-
-###
