@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/denis9506/count.svg?"  />
+![Profile Views](https://komarev.com/ghpvc/?username=denis9506&color=blue)
 </div>
 
 ###
