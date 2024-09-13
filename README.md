@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/denis9506&count_bg=%236f42c1&title_bg=%23e4e4e4&icon=github.svg&icon_color=%236f42c1&title=views&edge_flat=true" alt="Hits Count" width="300" height="50"/>
+<img src="https://komarev.com/ghpvc/?username=denis9506&color=6f42c1&style=for-the-badge" alt="Profile Views" width="225" height="35"/>
 </div>
 
 ###
