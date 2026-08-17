@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Denis and I'm a Frontend Developer & Aspiring Backend Expert.</h3>
+<h3 align="center">Hi 👋! My name is Denys and I'm a Frontend Developer & Aspiring Backend Expert.</h3>
 
 ###
 
